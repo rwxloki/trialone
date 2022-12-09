@@ -1,0 +1,13 @@
+{% load static %}
+
+<head>
+        <h1><a href="{% url 'myhome'%}">Home</a></h1> |  <a href="{% url 'myblog'%}">Blog</a> |  <a href="{% url 'myabout'%}">About</a> | <a href="{% url 'mynew'%}">New</a>
+       
+    </head>
+<body>
+        {% block content %}
+        
+        {% endblock %}
+    
+</body>
+</html>
