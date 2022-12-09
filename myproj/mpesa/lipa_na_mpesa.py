@@ -135,7 +135,7 @@ def lipa_mpesa():
     "PartyA":keys.phoneNumber,    
     "PartyB":keys.business_shortCode,    
     "PhoneNumber":keys.phoneNumber,    
-    "CallBackURL":"https://darajambili.herokuapp.com/express-payment",    
+    "CallBackURL":"https://git.heroku.com/gymplann.git",    
     "AccountReference":"Loice Did this",    
     "TransactionDesc":"Mytrial one "
     

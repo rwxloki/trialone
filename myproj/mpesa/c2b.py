@@ -16,8 +16,8 @@ def register_url():
     
     "ShortCode":regc2bshort,
     "ResponseType": "Completed",
-    "ConfirmationURL": "https://darajambili.herokuapp.com/express-payment",
-    "ValidationURL":"https://darajambili.herokuapp.com/express-payment"
+    "ConfirmationURL": "https://git.heroku.com/gymplann.git",
+    "ValidationURL":"https://git.heroku.com/gymplann.git"
    
     }
 
